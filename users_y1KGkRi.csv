@@ -1,0 +1,458 @@
+Row Labels,Count of city
+Grand Total,92507
+Sf,12739
+Los Angeles,12074
+San Jose,8036
+Sunnyvale,4590
+Irvine,3691
+Santa Clara,2551
+Fremont,2508
+Mountain View,2179
+San Gabriel,1793
+Arcadia,1357
+Cupertino,1297
+Alhambra,1289
+Daly City,1270
+Milpitas,1267
+Palo Alto,1240
+Pasadena,1233
+San Mateo,1215
+San Diego,1211
+Monterey Park,1113
+Berkeley,1108
+El Monte,817
+Rowland Heights,806
+Menlo Park,786
+West Covina,771
+Redwood City,747
+Newark,718
+Stanford,716
+Diamond Bar,695
+Walnut,659
+Foster City,635
+Rosemead,619
+Union City,606
+Oakland,593
+Temple City,590
+Hayward,585
+Chino Hills,559
+South San Francisco,487
+San Leandro,477
+Hacienda Heights,414
+Riverside,385
+La Puente,379
+San Bruno,358
+Millbrae,342
+Azusa,329
+Davis,323
+Chino,318
+San Francisco,313
+Los Altos,304
+Emeryville,301
+Burlingame,291
+Dublin,278
+Baldwin Park,270
+City Of Industry,259
+Saratoga,257
+Campbell,246
+Glendale,240
+Covina,239
+Ontario,234
+Pomona,222
+Santa Monica,217
+Rancho Cucamonga,209
+Pleasanton,200
+Belmont,199
+Tustin,193
+Castro Valley,191
+San Carlos,189
+Anaheim,176
+Santa Ana,172
+Albany,170
+San Ramon,166
+Monrovia,157
+San Marino,156
+Goleta,154
+Sacramento,150
+Alameda,149
+Lake Forest,149
+Torrance,149
+Corona,148
+Glendora,148
+El Cerrito,146
+Fullerton,140
+Richmond,140
+Long Beach,137
+Santa Cruz,137
+San Lorenzo,135
+Beverly Hills,133
+Brea,130
+Marina Del Rey,130
+Burbank,128
+La Verne,128
+Costa Mesa,125
+Los Gatos,125
+Newport Beach,124
+Yorba Linda,115
+Duarte,110
+Culver City,106
+Walnut Creek,98
+West Hollywood,95
+East Palo Alto,92
+South El Monte,91
+South Pasadena,90
+Orange,87
+Upland,86
+Pacifica,80
+Montebello,75
+Pleasant Hill,73
+San Dimas,65
+Fontana,64
+Concord,63
+Santa Barbara,63
+El Segundo,62
+Livermore,61
+Huntington Beach,58
+Gardena,57
+Stockton,57
+Los Altos Hills,55
+Whittier,52
+Elk Grove,51
+Hillsborough,51
+Claremont,50
+San Bernardino,50
+Rancho Palos Verdes,49
+Redondo Beach,49
+Colma,48
+Danville,47
+Garden Grove,47
+Cerritos,46
+Inglewood,46
+Santa Clarita,46
+Hawthorne,44
+Thousand Oaks,44
+Eastvale,43
+Brisbane,42
+Calabasas,40
+Atherton,38
+Laguna Niguel,37
+Mission Viejo,37
+Moreno Valley,36
+La Cañada Flintridge,35
+Placentia,35
+Cypress,34
+Fresno,33
+Pittsburg,30
+Aliso Viejo,29
+Trabuco Canyon,29
+Isla Vista,28
+Jurupa Valley,28
+La Habra,28
+Montclair,28
+Carlsbad,27
+Manhattan Beach,27
+Chula Vista,26
+Altadena,25
+Fairfield,25
+Fountain Valley,25
+Norwalk,25
+Downey,24
+San Pablo,24
+Morgan Hill,23
+Westminster,23
+Buena Park,22
+East Los Angeles,22
+Folsom,22
+Hercules,22
+Mill Valley,22
+San Marcos,22
+San Rafael,22
+Stevenson Ranch,22
+Orinda,21
+Redding,21
+Santa Fe Springs,21
+Irwindale,19
+Oceanside,19
+Redlands,19
+Santa Rosa,19
+Antioch,18
+Lakewood,18
+Palos Verdes Estates,18
+Vallejo,18
+Camarillo,17
+Compton,17
+Huntington Park,17
+Moraga,17
+Murrieta,17
+Pico Rivera,17
+Modesto,16
+Monterey,16
+Simi Valley,16
+Universal City,16
+Bakersfield,15
+Brentwood,15
+Commerce,15
+La Habra Heights,15
+Lafayette,15
+Roseville,15
+Sausalito,15
+Temecula,15
+Tracy,15
+Gilroy,14
+Malibu,14
+Monte Sereno,14
+San Clemente,14
+Vernon,14
+Vista,14
+Anderson,13
+La Mirada,13
+Novato,13
+Palm Springs,13
+Piedmont,13
+Rancho Santa Margarita,13
+San Juan Capistrano,13
+Sierra Madre,13
+Agoura Hills,12
+La Palma,12
+Manteca,12
+Palmdale,12
+Petaluma,12
+San Luis Obispo,12
+Woodland,12
+Bay Point,11
+Bellflower,11
+Bradbury,11
+Carson,11
+Half Moon Bay,11
+La Crescenta Montrose,11
+La Jolla,11
+Ladera Ranch,11
+Napa,11
+Poway,11
+Rocklin,11
+Rolling Hills Estates,11
+Vacaville,11
+Victorville,11
+Coto De Caza,10
+Dana Point,10
+Escondido,10
+Lawndale,10
+Loma Linda,10
+Lomita,10
+Martinez,10
+South Gate,10
+Westlake Village,10
+Chico,9
+El Cajon,9
+Hemet,9
+La Mesa,9
+Lancaster,9
+Moorpark,9
+Ventura,9
+Watsonville,9
+West Sacramento,9
+Artesia,8
+Bell,8
+Emerald Hills,8
+Hesperia,8
+Highland,8
+Laguna Beach,8
+Laguna Hills,8
+Mountain House,8
+Perris,8
+Signal Hill,8
+Alamo,7
+Corte Madera,7
+Encinitas,7
+Los Alamitos,7
+Palm Desert,7
+Portola Valley,7
+Rancho Cordova,7
+San Anselmo,7
+Tiburon,7
+Woodside,7
+Bell Gardens,6
+Cathedral City,6
+El Dorado Hills,6
+El Sobrante,6
+Kensington,6
+Larkspur,6
+Oak Park,6
+Rialto,6
+South Lake Tahoe,6
+West Menlo Park,6
+Yuba City,6
+Apple Valley,5
+Carmel By The Sea,5
+Carnelian Bay,5
+Hermosa Beach,5
+Laguna Woods,5
+Lynwood,5
+Menifee,5
+Merced,5
+Oxnard,5
+Paramount,5
+Pinole,5
+Salinas,5
+Santa Maria,5
+Santee,5
+Scotts Valley,5
+View Park Windsor Hills,5
+Winchester,5
+Beaumont,4
+Carmichael,4
+Citrus Heights,4
+Colton,4
+Fair Oaks,4
+Grand Terrace,4
+Granite Bay,4
+Hawaiian Gardens,4
+Indio,4
+Kentfield,4
+Lakeside,4
+Lemon Grove,4
+National City,4
+Pacheco,4
+Rancho Santa Fe,4
+Rohnert Park,4
+Seal Beach,4
+Seaside,4
+Turlock,4
+Villa Park,4
+Amer Cyn,3
+Antelope,3
+Aptos,3
+Benicia,3
+Clayton,3
+Del Mar,3
+Industry,3
+Lake Elsinore,3
+Lathrop,3
+Lodi,3
+Los Banos,3
+Marina,3
+Norco,3
+Pacific Grove,3
+Pismo Beach,3
+Rancho Mirage,3
+Spring Valley,3
+Stanton,3
+Suisun City,3
+Topanga,3
+Truckee,3
+Atascadero,2
+Auburn,2
+Avocado Heights,2
+Banning,2
+Broadmoor,2
+Cudahy,2
+Del Monte Forest,2
+Discovery Bay,2
+Felton,2
+Glencoe,2
+Hollister,2
+Indian Wells,2
+Mariposa,2
+Maywood,2
+Moss Beach,2
+Oakhurst,2
+Orangevale,2
+Patterson,2
+Port Hueneme,2
+Reedley,2
+Rodeo,2
+San Martin,2
+Tulare,2
+Twentynine Palms,2
+Visalia,2
+West Puente Valley,2
+Wildomar,2
+丹维尔,1
+Acampo,1
+Arcata,1
+Arroyo Grande,1
+Barstow,1
+Belvedere,1
+Ben Lomond,1
+Big Bear,1
+Big Bear Lake,1
+Blackhawk,1
+Boulder Creek,1
+Cabazon,1
+Calistoga,1
+Capitola,1
+Cherry Valley,1
+Clovis,1
+Coachella,1
+Colfax,1
+Corning,1
+Coronado,1
+Death Valley,1
+Desert Hot Springs,1
+Dixon,1
+聯合市,1
+El Mirage,1
+Eureka,1
+Fairfax,1
+Fallbrook,1
+Fillmore,1
+Galt,1
+Gold River,1
+Guerneville,1
+Hanford,1
+Healdsburg,1
+Hilmar,1
+Jenner,1
+Joshua Tree,1
+Kelseyville,1
+Kingsburg,1
+La Quinta,1
+Lakeport,1
+Lennox,1
+Live Oak,1
+Lompoc,1
+Madera,1
+Midway City,1
+Montara,1
+Montecito,1
+Montgomery Creek,1
+Myers Flat,1
+Nevada City,1
+North Tustin,1
+Oakley,1
+Ojai,1
+Orland,1
+Oroville,1
+Palos Verdes Peninsula,1
+Parlier,1
+Paso Robles,1
+Pecan Grove,1
+Placerville,1
+Porterville,1
+Quartz Hill,1
+Quincy,1
+Redcrest,1
+San Fernando,1
+San Jacinto,1
+San Juan Bautista,1
+Sanger,1
+Sea Ranch,1
+Sebastopol,1
+Selma,1
+Shasta Lake,1
+Solana Beach,1
+Solvang,1
+Sonoma,1
+St Helena,1
+Strawberry,1
+Sunol,1
+Tahoe Vista,1
+Thermal,1
+Twain Harte,1
+Walnut Park,1
+Waterford,1
+West Carson,1
+West Covina ,1
+Willits,1
+Yucaipa,1
+(blank),
