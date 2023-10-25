@@ -1,0 +1,68 @@
+I. Vocabulary:
+
+1. right part：data pane
+2. fileds grouped by data source table
+3. dimension: fileds above the line, fileds contain qualitative and descriptive values( names, dates, geographic data, IDs)
+4. measures: below each table horizontal line, fileds contain numeric, quantitative values can be aggregated using functions(sum and avg) 
+
+1. dimensions control the level of aggregation of the measures in a visualisation, 
+2. dimensions can be organized into hierarchies 
+3. hide fileds that do not plan to use
+4. group fileds by folder and create folders to organize them
+
+1. drag fileds from the data pane to the shelves and cards to build dv
+2. the right part: view
+3. build vz per sheet, add sheet
+4. combine sheets for dashboard and story
+5. top of the workspace, use the toolbar to access commands, analysis, and navigation tools
+
+II. Area Charts[columns: year; rows: Sum(sales)]
+
+area chart is a line chart where the area between the line and the axis shaded with color 
+
+area charts are used to represent accumulated totals over time and are the conventional way to display stacked lines 
+
+most dimensions ~ discrete
+
+most measures ~ continuous
+
+1. modify the date level on the columns( 选择date的形式: 年，季，月，周等）
+2. columns选date: date set as discrete or continuous(一般横轴dimension discreate, 纵轴 measures continuous)
+3. rows 可选number type: eg. currency, decimal places 0
+4. columns可选 axis titles, range, tickmark; 横轴上还有角标可以点选
+5. command可以双选dimension and measure
+6. context右键measure，创建level of detail expression:公式；可以改名，改变量名 
+
+/**/可以写comments
+
+1. 右键discrete dimension，edit aliases去修改labels of its members; set default properties for categorical filed，选sort by，则每次可以正确sort
+2. 上层analysis - stack marks - on/ off 
+3. 将变量放在color可以点亮色彩，color opacity 可选颜色透明度
+4. rows放不同的维度，可以将数据放在不同level进行比较（columns月；rows 种类, sum(sales) )
+5. 将变量放在tooltip可以展示marks card小窗口标，number type可选currency, decimal 0, 点击tooltip可以选择要展示的变量，其字体，或公式：insert变量名，选空allow selection by category 
+6. date放在filter上，range of dates可以出可拖拉时间长度板；选择show filter则显示板
+7. duplicate sheet; replace filed就直接拖过去可以
+
+
+III. Bar Chart
+
+bar charts to compare data across categories 
+
+1. 新建sheet, 新命名sheet页
+2. 可以command选中所需横纵轴变量，show me选择bar chart
+3. 放到numerical axis的小图标上，选择sort：ascending, descending, original
+4. profit ratio放在color shelf上，点击color, 选择opacity为80%，edit color，在palette中可以选择配色，hide advanced中选择start和end值为 -0.5,0.5，center
+5. 选择label，show mark label，选择有color的变量名，format：percentage, decimal 1
+6. 选择column变量，选消show header，将x轴的名字去掉
+7. 选消tooltip，则浮窗小卡片不会再出现：tooltip, show tooltip选消
+8. 如在map中使用bar chart，先来到map页，选择tooltip，先去掉tooltip，再insert需要的变量，insert bar chart 的sheets，选消allow selection by category
+
+
+IV. Connect to Data
+
+1. connect to data(files/connector), 选择upload a file
+2. 拖sheet1放在view, 选择upgrade now, 显示前100行记录：可以将一些列的数据type变成想要的格式
+3. 再拖sheet2放在view，edit relationship window，将primary key（共同都有的变量）连接。浮窗在横杠上，可以看到join 细节
+4. 选择sheet1，自动数据读入 
+5. 选择publish进行保存
+
